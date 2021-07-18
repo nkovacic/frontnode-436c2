@@ -19,7 +19,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: 'FrontNode - Adventures in React, Node.js, and No-code'
-  description: 'Niko Kovačič personal site and blog about everything JavaScript. '
+  description: >-
+    Niko Kovačič's personal site and blog. Writing about everything JavaScript
+    and No-code 
   extra:
     - name: 'og:type'
       value: website
