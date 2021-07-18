@@ -19,7 +19,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: 'FrontNode - Adventures in React, Node.js, and No-code'
-  description: The preview of the Ampersand theme
+  description: 'Niko Kovačič personal site and blog about everything JavaScript. '
   extra:
     - name: 'og:type'
       value: website
