@@ -21,9 +21,9 @@ form_fields:
     default_value: Please select
     options:
       - Error on the site
+      - Let's talk about contractual work
       - Sponsorship
       - Other
-      - Let's talk about contractual work
   - input_type: textarea
     name: message
     label: Message
