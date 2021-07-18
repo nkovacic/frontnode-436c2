@@ -43,7 +43,9 @@ seo:
     - name: 'twitter:title'
       value: 'FrontNode - Adventures in React, Node.js, and No-code'
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Niko Kovačič's personal site and blog. Writing about everything
+        JavaScript and No-code 
     - name: 'twitter:image'
       value: /images/jaz_medium.jpg
       relativeUrl: true
