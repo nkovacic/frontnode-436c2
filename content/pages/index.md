@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: /images/jaz_medium.jpg
       relativeUrl: true
 layout: home
 ---
