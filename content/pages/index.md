@@ -25,7 +25,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: 'FrontNode - Adventures in React, Node.js, and No-code'
       keyName: property
     - name: 'og:description'
       value: The preview of the Ampersand theme
