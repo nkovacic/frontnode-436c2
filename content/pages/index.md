@@ -30,7 +30,9 @@ seo:
       value: 'FrontNode - Adventures in React, Node.js, and No-code'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Niko Kovačič's personal site and blog. Writing about everything
+        JavaScript and No-code 
       keyName: property
     - name: 'og:image'
       value: /images/jaz_medium.jpg
