@@ -31,8 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Niko Kovačič is I'm a Senior Full Stack Engineer at [Bird Buddy](https://mybirdbuddy.com/), where I work with React Native, React, and Node.js to help bring the vision of a Smart Bird Feeder to life.
-
+I'm a Senior Full Stack Engineer at [Bird Buddy](https://mybirdbuddy.com/), where I work with React Native, React, and Node.js to help bring the vision of a Smart Bird Feeder to life.
 
 Previously co-founded [Foreach Solutions](https://www.foreach-solutions.com/en/?ref=ncode), a startup agency from [Maribor, Slovenia](https://goo.gl/maps/GdHsezDhZLiPUm7z9), where we were building mobile and web products.
 
