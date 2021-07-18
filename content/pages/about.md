@@ -2,7 +2,7 @@
 title: About Me
 subtitle: This is a short page about me and my work
 img_path: /images/jaz_medium.jpg
-img_alt: A man standing on a rock outside the cave
+img_alt: Niko Kovačič
 seo:
   title: About Me
   description: This is the about me page
