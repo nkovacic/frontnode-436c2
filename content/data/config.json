@@ -57,5 +57,6 @@
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles, insights. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success"
     },
-    "domain": "https://www.frontnode.co"
+    "domain": "https://www.frontnode.co",
+    "favicon": "/images/favicon-32x32.png"
 }
