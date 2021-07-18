@@ -31,13 +31,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Niko Kovačič is I'm a Senior Full Stack Engineer at [Bird Buddy](https://mybirdbuddy.com/), where I work with React Native, React, and Node.js to help bring the vision of a Smart Bird Feeder to life.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Previously co-founded [Foreach Solutions](https://www.foreach-solutions.com/en/?ref=ncode), a startup agency from [Maribor, Slovenia](https://goo.gl/maps/GdHsezDhZLiPUm7z9), where we were building mobile and web products.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+In my free time, I blog about React, Node.js, Low-Code, and No-Code,
