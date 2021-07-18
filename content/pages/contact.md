@@ -23,7 +23,7 @@ form_fields:
       - Error on the site
       - Sponsorship
       - Other
-      - lorem-ipsum
+      - Let's talk about contractual work
   - input_type: textarea
     name: message
     label: Message
