@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: 'FrontNode - Adventures in React, Node.js, and No-code'
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
     - name: 'twitter:image'
