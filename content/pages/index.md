@@ -1,11 +1,19 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >+
+  Hi, I am Niko Kovačič, and welcome to my personal page, where I blog about
+  React.js, Node.js, Low-Code, and No-Code,
+
+
+  I work as a senior Full Stack Engineer at [Bird
+  Buddy](https://mybirdbuddy.com/) and have previously co-founded [Foreach
+  Solutions](https://www.foreach-solutions.com/en/?ref=ncode), a startup agency
+  from [Maribor, Slovenia](https://goo.gl/maps/GdHsezDhZLiPUm7z9), where we were
+  building mobile and web products.
+
+
+
 intro_actions:
   - label: Learn More
     url: /about
