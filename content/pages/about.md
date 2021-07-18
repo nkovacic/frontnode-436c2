@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Me - Niko Kovačič
 subtitle: This is a short page about me and my work
 img_path: /images/jaz_medium.jpg
 img_alt: Niko Kovačič
