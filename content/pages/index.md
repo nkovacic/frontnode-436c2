@@ -18,30 +18,36 @@ intro_actions: []
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: 'FrontNode - Adventures in React, Node.js, and No-code'
+  description: >-
+    Niko Kovačič's personal site and blog. Writing about everything JavaScript
+    and No-code 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: 'FrontNode - Adventures in React, Node.js, and No-code'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Niko Kovačič's personal site and blog. Writing about everything
+        JavaScript and No-code 
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: /images/jaz_medium.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: 'FrontNode - Adventures in React, Node.js, and No-code'
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Niko Kovačič's personal site and blog. Writing about everything
+        JavaScript and No-code 
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: /images/jaz_medium.jpg
       relativeUrl: true
 layout: home
 ---
