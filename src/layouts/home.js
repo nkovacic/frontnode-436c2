@@ -69,9 +69,9 @@ export default class Home extends React.Component {
                         </div>
                     </div>
                 )}
-                <div className="post-feed">
+                {/* <div className="post-feed">
                     {_.map(posts, (post, index) => this.renderPost(post, index, hasMoreLink, moreLinkText))}
-                </div>
+                </div> */}
             </Layout>
         );
     }
